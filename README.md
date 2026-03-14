@@ -44,7 +44,3 @@ De La Pena, Don Emmanuel\
 Espiritu, Marriene Ellaisa\
 Ilao, Mc Brayden\
 \
-Adviser\
-Marbecel Florida\
-\
-

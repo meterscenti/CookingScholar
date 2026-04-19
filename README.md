@@ -18,7 +18,7 @@ Configuration\
 The file named 'ADELFA_Food_Database_COOKING_SCHOLAR' and
 'ADELFA_Food_Database_Search\_ COOKING_SCHOLAR'\
 Respectively,\
-Add the instructions as the and the ID as the key in the dictionary\
+Add the instructions as the value and the ID as the key in the dictionary\
 Make sure the format and data types are correct\
 \
 There is a dictionary named 'recipes'\

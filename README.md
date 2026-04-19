@@ -7,7 +7,7 @@ they can cook depending on the ingredients and time that they have. The
 entire program is unfinished and needs polishing.\
 \
 How to install\
-Copy the entire Folder, CookingScholarv6, the latest and most complete
+Copy the entire Folder, CookingScholarv7, the latest and most complete
 version\
 Make sure that all the files are copied\
 Do not change any file name\

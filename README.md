@@ -7,9 +7,9 @@ they can cook depending on the ingredients and time that they have. The
 entire program is unfinished and needs polishing.\
 \
 How to install\
-Copy the entire Folder, CookingScholarv7, the latest and most complete
+Use git clone to get the folder CookingScholarv7, the latest and most complete
 version\
-Make sure that all the files are copied\
+Make sure that all the files are copied after\
 Do not change any file name\
 The file named as 'main.py' is the program to run\
 Make sure all files are in the same folder/hierarchy\
